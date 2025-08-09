@@ -1,2 +1,5 @@
-# Zone.Identifier files created by Windows
-*:Zone.Identifier
+.uraprojects2025/
+.URA-projects-2025/
+*Zone.Identifier
+*.pt
+*.JPG
